@@ -1,0 +1,53 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+table, td, th {
+    border: 1px solid #888;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+main {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+th, td {
+    padding: 10px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    padding: 5px;
+}
+
+.flag {
+    height: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.gold {
+    background-color: gold;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.bronze {
+    background-color: #cd7f32;
+}
